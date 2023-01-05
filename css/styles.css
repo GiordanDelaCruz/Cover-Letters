@@ -1,0 +1,21 @@
+html {
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: #EBE9F6;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    padding: 2rem 0 3rem;
+    color: #453C38;
+    font-weight: 700;
+}
+  
